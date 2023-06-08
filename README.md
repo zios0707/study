@@ -1,4 +1,4 @@
 # study
 
-> test\n
-> i usualy use c,c++!
+> i usualy use c,c++!   
+> and now i'm learn java(spring) and 
