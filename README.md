@@ -1,6 +1,4 @@
 # study
 
-> test
-> hihi
-> hihihihi
+> test\n
 > i usualy use c,c++!
