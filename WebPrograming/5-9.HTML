@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      .overlay-wrap {
+        width: 100px;
+        height: 100px;
+        position: absolute;
+        overflow: ;
+      }
+
+      .overlay-black > span {
+        color: white;
+        font-size: 3rem;
+      }
+
+      .overlay-black {
+        width: 100px;
+        height: 100px;
+        background-color: rgba(0, 0, 0, 0.3);
+        padding: 20px;
+        margin-top: 90%;
+      }
+
+      .overlay-wrap:hover .overlay-black {
+        margin-top: 50px;
+        transition: all 2s;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="overlay-wrap">
+      <div class="overlay-black">
+        <span>$60</span>
+        <span>인기상품</span>
+      </div>
+    </div>
+    <img src="./media/염라.jpg" alt="" />
+  </body>
+</html>
